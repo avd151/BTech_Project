@@ -17,7 +17,7 @@
 - ACM - @AJ18coep
 - ASCE - @avd151
 - Google Scholar - @RiddhiTharewal
-Download all research papers and keep in separate folders, also note down number of search results that appear on each website
+- Download all research papers and keep in separate folders, also note down number of search results that appear on each website
 
 3. Inclusion & exclusion of research papers using PRISMA
 - Include review papers, research papers, implementation papers, case study papers in English
