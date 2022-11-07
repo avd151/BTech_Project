@@ -1,0 +1,21 @@
+ASCE = Research paper, review paper, case study
+Route selection system = 15734
+Road route alignment system = 2224
+Route planning system = 19973
+
+
+Science Direct = Research articles, Review articles, Case reports
+Route selection system = 232979
+Road route alignment system = 8815
+Route planning system = 211638
+
+Couldn't download - 
+Expressway Route Optimization by OCP - https://doi.org/10.1061/TPEJAN.0000984 
+Aqueduct Route Optimization by Dynamic Programming - https://doi.org/10.1061/JYCEAJ.0002153
+An Appproach to Prioritisation of Alternatives in Road projects - https://doi.org/10.1061/9780784483541.009
+Tourism Route Planning Model Based on Graph Theory - https://doi.org/10.1061/9780784483053.277
+Origin–Destination Matrix Estimation and Prediction from Socioeconomic Variables Using Automatic Feature Selection Procedure-Based Machine Learning Model
+ -  https://doi.org/10.1061/(ASCE)UP.1943-5444.0000763
+
+** Doubtful -
+Bridge Planning using GIS and Expert System approach - https://doi.org/10.1061/(ASCE)0887-3801(1993)7:3(278)
