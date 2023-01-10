@@ -28,3 +28,5 @@
 4. Start Literature Review
 - Read selected papers for systematic literature review
 
+
+- Excel Sheet - Table for writing Literature Review = https://docs.google.com/spreadsheets/d/189GhGxP1OgfX_9SvtBmihNaquOhO69im_8UTde-bvFE/edit#gid=0
