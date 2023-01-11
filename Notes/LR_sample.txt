@@ -1,0 +1,45 @@
+Paper =
+2011_A Multiobjective Analysis of Impacted Area of Environmentally Preserved Land and Alignment Cost for Sustainable Highway Infrastructure Design.pdf
+
+Author = 
+Avijit Majia, Manoj K Jha
+
+Conceptual Framework = 
+- Perform multi objective analysis of impacted area of environmentally preserved land and alignment cost for sustainable highway design
+- Find optimized highway alignments by minimizing highway alignment cost (monetary component) and environmentally preserved land used(non monetary component)
+
+Hypothesis/ Research = 
+- GIS map database as a search space where the start and end points of constructed alignment are pre-specified
+- Decision variables used are described as the set of points 
+along the orthogonal cutting planes drawn at user-specified intervals along the Euclidian line connecting the start and end points - called PIs = Point of Intersections
+- Curves are fitted along the PIs to obtain a highway alignment
+- 2 cost components estimated from generated alignment - 
+a) Highway alignment cost (monetary component - in dollars) = alignment sensitive costs, such as right-of-way cost, construction cost, earthwork cost, vehicle operation cost, user cost etc. 		 - user cost comprises travel-time cost, vehicle operating cost, and accident cost
+ - right-of-way cost is derived from the land area needed and the property damage 
+incurred
+b) Environmentally preserved land parcels (non monetary component - in square feets) = (cannot estimate its monetary value during planning - hence considered non monetary) 
+total impacted area of environmentally preserved land depends on the value of E (environmental factors), af(fraction of land area) and the PIs of the highway alignment.
+-  GIS based GA optimization procedure used on  Harford County GIS map database in the State of Maryland
+- PI coordinate information are encoded in the chromosomes.
+- Initial search domain is selected within the study area and the two end-points of the highway alignment are specified.
+- Alignment for 2 lane highway, 40ft. avg width, 50 mph design speed, set of 10 controlling PIs used, set of 100 chromosomes, storage limit of 200 non-dominated solutions used.
+- GA population is initialized by randomly generated PIs in the chromosome.
+- Offspring obtained are re-evaluated for the total highway alignment cost and impacted area of environmentally preserved land and suitably stored in the existing non-dominated and dominated solution pool. The non-dominated 
+solution set is also updated in each generation.
+
+Analysis/ Result =
+- Earlier models / approaches use Single objective optimization approach to minimize highway alignment cost - all factors tield together to form single objective - cannot optimize highway alignment cost (monetary) and environmentally preserved land (non monetary) together using this - hence multi objective optimization using GA used.
+- Simultaneous minimization of total highway alignment cost and impacted area of environmentally preserved land within the Harford County study area in State of Marylad performed.
+- Uses automated minimization using a C program operated on GIS Database using Genetic Algorithm (GA). Result = final set of non dominated solution
+preserved land, are plotted on the Harford County GIS map
+
+Conclusion = 
+- Extreme alternatives, i.e. highway alignment with the highest cost but the least impacted area of environmentally preserved land and highway alignment with the least cost but the highest impacted area of environmentally preserved land, are plotted on the Harford County GIS map.
+- Best highway alignments obtained by simultaneous optimization of total highway alignment cost and impacted area of environmentally preserved land 
+
+Implication for future research = 
+(Not mentioned in paper - write by own)
+
+Remarks = 
+- Used GIS database of Harford County map in Maryland to perform optimization using Genetic Algorithm technique
+- Does multi objective optimization by considering both highway alignment cost (monetary, in dollars) and area of environmentally preserved land used (non monetary, in sq. feet) - and plots optinmized aligments on the map - minimizing both the values (trade-off of both values)
