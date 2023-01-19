@@ -31,3 +31,4 @@
 
 - Excel Sheet - Table for writing Literature Review = https://docs.google.com/spreadsheets/d/189GhGxP1OgfX_9SvtBmihNaquOhO69im_8UTde-bvFE/edit#gid=0
 - Review paper doc - https://docs.google.com/document/d/1Cd6pzIjgP0wNLKQ_RLuDyV7HluBzQiG_gvBcEWGpFbw/edit?usp=sharing
+- Sample review paper for reference - https://reader.elsevier.com/reader/sd/pii/S0303243422000605?token=A7A78FD2BA95FC7B887431FEBA455A81CE09CF26666073C53671BCB8AD62F4909C8021F1DADBCBC68CB58C92F0B4976A&originRegion=eu-west-1&originCreation=20230119002109
