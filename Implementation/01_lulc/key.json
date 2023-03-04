@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "btech-project-ara",
+  "private_key_id": "ea44de8bbdf42c0f2f72ba6aa6cb187633678850",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmrS6bKUlt9ZvH\nCx5P+jBjlsj/HFXG6RKAHqzmu3B6M16UIvN+i5ixoqDYRJLfBjAvbnaUbrj9ATRt\nSu8WZGWnI/I2YHYg+ElOA+44hvfef/Br7OPnuliqLJf2L30fs3qTROK6z/HPzvrv\ninlrWNSfQe4QT4bCgdTOKxFMWuwKfsTg/JgFlx04fPxFutUTkOPMeFOAs9ez3HBb\n0x0jDsv32TDLLTBY8ZqDdC29e6ciW+6i/iZbipJILmQITo12yw8Er18l+JPDWlwu\nug03m4PoK1AgPXCfZoJGQLPtsolIRj9nRMiHStLfVPUDru3wtJrMh6PugUeis/LU\nKJRBl6yFAgMBAAECggEACnLCQGtA5WH3Wy2c/5X3KRMHdAiGbwLmzD3ACHG5DgwA\n0ofzXBwrnP0NGKmJzG3CoQKLb+gV9BQ6gVxoau6tuaHE+fgnh48Q51FTQlthl+LM\nwzM1IS5bBwXnG8Fj1lQlq6wui1fkOGro65GyZVKK95XGMuMNV02UtbzY54CumcS5\nEUrt+nn7+DBQRpuHfNhkFtiw+SEkVlwUa5M0IBsnf+UscVuvHubmYYRGyi7TIa8M\ngX3GQ6RP7nY7M42guIU2B/spp87jIIwzynCO/emmVtagt9SMkCeaGAg6EizAY6k9\nNfYj1k4ogbcGZvOa62AITOqH9RqXsNvvD/gOFem/WQKBgQDk8kolNW+91ohjiF6P\nvCgqRJxvTqzQEP0YlJ3Qs9+iKf2E0yOAfsCa2lE63OnMz1bnEJuj5S0uOViIul3M\n0HE9+P0MLyWSAJgPWQx20XdsXzXdC5iKnph4Q1ICyW48ow031/YthOYmAH4vjIcN\nO4b33aEtl6ZYHjcoobbZg+/X/QKBgQC6XzRbA+Bem8fLm60t32KPTGTuKUPlkO5n\nxH1mBqK7oWrs4dSoyjjlFtB1IX5QQJg/0qzNfkIfwr2DVL5G6S+8cGYfHvuTvAos\nZD7YSCjH6huY+E5R/tziqujz4r1O+Nb0sooEvlDfCnTejFONVVPK6R2WKFXAxQ1c\nw8iTYE35KQKBgQCTWtKYEkWiVOMh1NKwBnV/hvt8tJGLtXOBD55nhm4ojIgspkyS\nVoKW6G8hyK/+b3DKdakHGukyeBxgnDrlKT/JmGkeH3Y5+4HjVvgrvXP0327mn6EF\nj0ApH4M4Yfc+td87ExfSglgzG1wcNIFz5d1fyVkE5DdfPctYroTmiQGk7QKBgD7o\n6BlY46HL39NAx2JWp0RLuz4RO9P/6hmo39NSphfD0v4G9OvM5wudedwv5B1e0IWq\nrZ3n4pYp/CKatmflSrHHFxGmObGSpbR6WiRTp0BkK9Ck8HsJFrKEkoHQpapEoPqU\nUbZsL4w6UVzV7VYl2VUC/3OyRc/+NBZ+F/R3a5qRAoGBAJujNG0V836BEIlF3/uZ\nLqHuXLEwEBr+N5ESXkEy9eNUIEaBJl1di/MYtS+mrsHaZNf1SoCzB4tzS3ubCl8a\ny63yUXKwYGga9Iya4Huj+KxE4jDSqqkQlOsRJB0KnrKomCSILDN8mBXBnlDO6h7p\nh/5R1GTtqJjlI6PMeU+oSNHe\n-----END PRIVATE KEY-----\n",
+  "client_email": "apurva@btech-project-ara.iam.gserviceaccount.com",
+  "client_id": "117559058594252819794",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apurva%40btech-project-ara.iam.gserviceaccount.com"
+}
