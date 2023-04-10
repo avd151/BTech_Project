@@ -34,3 +34,6 @@
 - Sample review paper for reference - https://reader.elsevier.com/reader/sd/pii/S0303243422000605?token=A7A78FD2BA95FC7B887431FEBA455A81CE09CF26666073C53671BCB8AD62F4909C8021F1DADBCBC68CB58C92F0B4976A&originRegion=eu-west-1&originCreation=20230119002109
 
 - Report link - https://www.overleaf.com/4387819666qvzqsnptbgkgs
+
+### references -
+- http://shodhbhagirathi.iitr.ac.in:8081/jspui/image/pdf/web/viewer.html?file=/jspui/bitstream/123456789/1622/1/MULTICRITERIA%20BASED%20ROUTE%20ALIGNMENT%20IN%20HILLY%20TERRAIN%20USING%20GIS.pdf
