@@ -37,3 +37,5 @@
 
 ### references -
 - http://shodhbhagirathi.iitr.ac.in:8081/jspui/image/pdf/web/viewer.html?file=/jspui/bitstream/123456789/1622/1/MULTICRITERIA%20BASED%20ROUTE%20ALIGNMENT%20IN%20HILLY%20TERRAIN%20USING%20GIS.pdf
+- https://scholar.najah.edu/sites/default/files/all-thesis/gis_as_a_tool_for_route_location_and_highway_alignment.pdf
+- https://www.researchgate.net/publication/338684955_Planning_of_New_Road_Alignment_using_Geographic_Information_System_GIS
