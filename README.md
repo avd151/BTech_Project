@@ -12,7 +12,6 @@ Unet dice-coefficient: 98.5%
 Resnet-50_Unet: 96%
 
 # Output of Unet
-![Unet_LULC](https://github.com/avd151/BTech_Project/blob/main/Output/output.png)
+![Unet_LULC](https://github.com/avd151/BTech_Project/blob/main/Output/unet1.png)
 
 #For weight Assignment AHP is used
-
