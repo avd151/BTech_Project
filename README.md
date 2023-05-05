@@ -12,6 +12,14 @@ Unet dice-coefficient: 98.5%
 Resnet-50_Unet: 96%
 
 # Output of Unet
-![Unet_LULC](https://github.com/avd151/BTech_Project/blob/main/Output/unet1.png)
+![Unet_LULC](https://github.com/avd151/BTech_Project/blob/main/Output/unet1.jpg)
 
 #For weight Assignment AHP is used
+![AHP](https://github.com/avd151/BTech_Project/blob/main/Output/AHP1.png)
+![Unet_LULC](https://github.com/avd151/BTech_Project/blob/main/Output/AHP2.png)
+![Unet_LULC](https://github.com/avd151/BTech_Project/blob/main/Output/criterion_weight.png)
+
+# Output of Route Alignment
+
+![Route_ Alignment](https://github.com/avd151/BTech_Project/blob/main/Output/output.jpg)
+
